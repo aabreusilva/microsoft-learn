@@ -1,0 +1,14 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\bin\Debug\net8.0\valoresDeNotas.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\bin\Debug\net8.0\valoresDeNotas.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\bin\Debug\net8.0\valoresDeNotas.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\bin\Debug\net8.0\valoresDeNotas.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\bin\Debug\net8.0\valoresDeNotas.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\valoresDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\valoresDeNotas.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\valoresDeNotas.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\valoresDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\valoresDeNotas.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\refint\valoresDeNotas.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\valoresDeNotas.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\valoresDeNotas.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\valoresDeNotas\obj\Debug\net8.0\ref\valoresDeNotas.dll

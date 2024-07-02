@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "saidasDeEscape/1.0.0": {
+        "runtime": {
+          "saidasDeEscape.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "saidasDeEscape/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

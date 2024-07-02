@@ -1,0 +1,14 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\bin\Debug\net8.0\someMedia.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\bin\Debug\net8.0\someMedia.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\bin\Debug\net8.0\someMedia.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\bin\Debug\net8.0\someMedia.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\bin\Debug\net8.0\someMedia.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\someMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\someMedia.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\someMedia.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\someMedia.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\someMedia.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\refint\someMedia.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\someMedia.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\someMedia.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\someMedia\obj\Debug\net8.0\ref\someMedia.dll

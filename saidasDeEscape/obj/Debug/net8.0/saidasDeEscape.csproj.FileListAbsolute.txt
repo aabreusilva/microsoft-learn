@@ -1,0 +1,14 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\bin\Debug\net8.0\saidasDeEscape.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\bin\Debug\net8.0\saidasDeEscape.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\bin\Debug\net8.0\saidasDeEscape.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\bin\Debug\net8.0\saidasDeEscape.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\bin\Debug\net8.0\saidasDeEscape.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\saidasDeEscape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\saidasDeEscape.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\saidasDeEscape.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\saidasDeEscape.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\saidasDeEscape.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\refint\saidasDeEscape.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\saidasDeEscape.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\saidasDeEscape.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\saidasDeEscape\obj\Debug\net8.0\ref\saidasDeEscape.dll

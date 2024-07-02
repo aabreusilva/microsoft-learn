@@ -1,0 +1,14 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\bin\Debug\net8.0\formatarSomaMedia.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\bin\Debug\net8.0\formatarSomaMedia.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\bin\Debug\net8.0\formatarSomaMedia.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\bin\Debug\net8.0\formatarSomaMedia.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\bin\Debug\net8.0\formatarSomaMedia.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\formatarSomaMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\formatarSomaMedia.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\formatarSomaMedia.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\formatarSomaMedia.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\formatarSomaMedia.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\refint\formatarSomaMedia.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\formatarSomaMedia.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\formatarSomaMedia.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSomaMedia\obj\Debug\net8.0\ref\formatarSomaMedia.dll

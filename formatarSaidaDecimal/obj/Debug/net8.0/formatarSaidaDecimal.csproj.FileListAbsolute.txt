@@ -1,0 +1,14 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\bin\Debug\net8.0\formatarSaidaDecimal.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\bin\Debug\net8.0\formatarSaidaDecimal.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\bin\Debug\net8.0\formatarSaidaDecimal.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\bin\Debug\net8.0\formatarSaidaDecimal.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\bin\Debug\net8.0\formatarSaidaDecimal.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\formatarSaidaDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\formatarSaidaDecimal.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\formatarSaidaDecimal.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\formatarSaidaDecimal.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\formatarSaidaDecimal.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\refint\formatarSaidaDecimal.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\formatarSaidaDecimal.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\formatarSaidaDecimal.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\formatarSaidaDecimal\obj\Debug\net8.0\ref\formatarSaidaDecimal.dll
