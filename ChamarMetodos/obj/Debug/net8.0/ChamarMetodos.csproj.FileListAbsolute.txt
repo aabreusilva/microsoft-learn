@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\bin\Debug\net8.0\ChamarMetodos.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\bin\Debug\net8.0\ChamarMetodos.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\bin\Debug\net8.0\ChamarMetodos.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\bin\Debug\net8.0\ChamarMetodos.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\bin\Debug\net8.0\ChamarMetodos.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\refint\ChamarMetodos.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ChamarMetodos.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ChamarMetodos\obj\Debug\net8.0\ref\ChamarMetodos.dll
