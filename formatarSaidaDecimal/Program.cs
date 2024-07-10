@@ -1,5 +1,5 @@
-﻿//Calcular o GPA final e modificar a ssaída do console para obter o formato de relatório desejado.
-//O GPA é igual à somma do total de pontos de nota divididos pela soma do total de horas de crédito.
+﻿//Calcular o GPA final e modificar a saída do console para obter o formato de relatório desejado.
+//O GPA é igual à soma do total de pontos de nota divididos pela soma do total de horas de crédito.
 
 string studentName = "Sophia Johnson";
 string course1Name = "English 101";

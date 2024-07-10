@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\bin\Debug\net8.0\ClasseMath.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\bin\Debug\net8.0\ClasseMath.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\bin\Debug\net8.0\ClasseMath.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\bin\Debug\net8.0\ClasseMath.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\bin\Debug\net8.0\ClasseMath.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\refint\ClasseMath.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ClasseMath.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ClasseMath\obj\Debug\net8.0\ref\ClasseMath.dll
