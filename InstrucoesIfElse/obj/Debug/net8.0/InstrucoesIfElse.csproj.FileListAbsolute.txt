@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\bin\Debug\net8.0\InstrucoesIfElse.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\bin\Debug\net8.0\InstrucoesIfElse.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\bin\Debug\net8.0\InstrucoesIfElse.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\bin\Debug\net8.0\InstrucoesIfElse.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\bin\Debug\net8.0\InstrucoesIfElse.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\refint\InstrucoesIfElse.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\InstrucoesIfElse.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\InstrucoesIfElse\obj\Debug\net8.0\ref\InstrucoesIfElse.dll
