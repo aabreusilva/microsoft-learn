@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\bin\Debug\net8.0\varController.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\bin\Debug\net8.0\varController.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\bin\Debug\net8.0\varController.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\bin\Debug\net8.0\varController.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\bin\Debug\net8.0\varController.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\refint\varController.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\varController.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\varController\obj\Debug\net8.0\ref\varController.dll
