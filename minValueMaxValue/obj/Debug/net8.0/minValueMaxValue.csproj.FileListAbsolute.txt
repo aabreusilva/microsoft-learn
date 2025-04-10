@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\bin\Debug\net8.0\minValueMaxValue.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\bin\Debug\net8.0\minValueMaxValue.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\bin\Debug\net8.0\minValueMaxValue.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\bin\Debug\net8.0\minValueMaxValue.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\bin\Debug\net8.0\minValueMaxValue.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\refint\minValueMaxValue.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\minValueMaxValue.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\minValueMaxValue\obj\Debug\net8.0\ref\minValueMaxValue.dll
