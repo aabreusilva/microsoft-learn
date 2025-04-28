@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\bin\Debug\net8.0\splitAndJoin.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\bin\Debug\net8.0\splitAndJoin.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\bin\Debug\net8.0\splitAndJoin.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\bin\Debug\net8.0\splitAndJoin.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\bin\Debug\net8.0\splitAndJoin.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\refint\splitAndJoin.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\splitAndJoin.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\splitAndJoin\obj\Debug\net8.0\ref\splitAndJoin.dll
