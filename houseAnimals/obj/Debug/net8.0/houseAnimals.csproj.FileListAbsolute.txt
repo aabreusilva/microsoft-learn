@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\bin\Debug\net8.0\houseAnimals.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\bin\Debug\net8.0\houseAnimals.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\bin\Debug\net8.0\houseAnimals.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\bin\Debug\net8.0\houseAnimals.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\bin\Debug\net8.0\houseAnimals.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\refint\houseAnimals.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\houseAnimals.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\houseAnimals\obj\Debug\net8.0\ref\houseAnimals.dll

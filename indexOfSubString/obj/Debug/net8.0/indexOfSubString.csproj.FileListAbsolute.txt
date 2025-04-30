@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\bin\Debug\net8.0\indexOfSubString.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\bin\Debug\net8.0\indexOfSubString.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\bin\Debug\net8.0\indexOfSubString.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\bin\Debug\net8.0\indexOfSubString.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\bin\Debug\net8.0\indexOfSubString.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\refint\indexOfSubString.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\indexOfSubString.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\indexOfSubString\obj\Debug\net8.0\ref\indexOfSubString.dll
