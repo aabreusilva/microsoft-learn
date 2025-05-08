@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\bin\Debug\net8.0\tryParse.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\bin\Debug\net8.0\tryParse.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\bin\Debug\net8.0\tryParse.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\bin\Debug\net8.0\tryParse.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\bin\Debug\net8.0\tryParse.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\refint\tryParse.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\tryParse.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\tryParse\obj\Debug\net8.0\ref\tryParse.dll
