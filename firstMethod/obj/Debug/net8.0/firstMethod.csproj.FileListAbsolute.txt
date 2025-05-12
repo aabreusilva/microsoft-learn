@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\bin\Debug\net8.0\firstMethod.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\bin\Debug\net8.0\firstMethod.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\bin\Debug\net8.0\firstMethod.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\bin\Debug\net8.0\firstMethod.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\bin\Debug\net8.0\firstMethod.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\refint\firstMethod.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\firstMethod.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\firstMethod\obj\Debug\net8.0\ref\firstMethod.dll
