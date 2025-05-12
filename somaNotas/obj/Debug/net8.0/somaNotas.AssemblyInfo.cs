@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("somaNotas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3983e44b05a3e4e3424d1f25b0febdac5aa86b9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("somaNotas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("somaNotas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\bin\Debug\net8.0\farmatCharacterers.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\bin\Debug\net8.0\farmatCharacterers.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\bin\Debug\net8.0\farmatCharacterers.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\bin\Debug\net8.0\farmatCharacterers.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\bin\Debug\net8.0\farmatCharacterers.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\refint\farmatCharacterers.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\farmatCharacterers.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\farmatCharacterers\obj\Debug\net8.0\ref\farmatCharacterers.dll

@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\bin\Debug\net8.0\conversionsData.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\bin\Debug\net8.0\conversionsData.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\bin\Debug\net8.0\conversionsData.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\bin\Debug\net8.0\conversionsData.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\bin\Debug\net8.0\conversionsData.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\refint\conversionsData.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\conversionsData.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\conversionsData\obj\Debug\net8.0\ref\conversionsData.dll

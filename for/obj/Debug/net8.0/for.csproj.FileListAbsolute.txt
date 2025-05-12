@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\bin\Debug\net8.0\for.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\bin\Debug\net8.0\for.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\bin\Debug\net8.0\for.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\bin\Debug\net8.0\for.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\bin\Debug\net8.0\for.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\refint\for.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\for.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\for\obj\Debug\net8.0\ref\for.dll

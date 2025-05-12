@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\bin\Debug\net8.0\rpgBattle.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\bin\Debug\net8.0\rpgBattle.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\bin\Debug\net8.0\rpgBattle.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\bin\Debug\net8.0\rpgBattle.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\bin\Debug\net8.0\rpgBattle.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\refint\rpgBattle.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\rpgBattle.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\rpgBattle\obj\Debug\net8.0\ref\rpgBattle.dll
