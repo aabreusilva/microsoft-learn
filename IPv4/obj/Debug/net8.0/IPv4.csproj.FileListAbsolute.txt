@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\bin\Debug\net8.0\IPv4.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\bin\Debug\net8.0\IPv4.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\bin\Debug\net8.0\IPv4.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\bin\Debug\net8.0\IPv4.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\bin\Debug\net8.0\IPv4.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\refint\IPv4.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\IPv4.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\IPv4\obj\Debug\net8.0\ref\IPv4.dll

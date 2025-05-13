@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\bin\Debug\net8.0\learnFunctionsFor.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\bin\Debug\net8.0\learnFunctionsFor.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\bin\Debug\net8.0\learnFunctionsFor.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\bin\Debug\net8.0\learnFunctionsFor.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\bin\Debug\net8.0\learnFunctionsFor.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\refint\learnFunctionsFor.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\learnFunctionsFor.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\learnFunctionsFor\obj\Debug\net8.0\ref\learnFunctionsFor.dll

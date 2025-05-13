@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\bin\Debug\net8.0\permissionLevel.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\bin\Debug\net8.0\permissionLevel.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\bin\Debug\net8.0\permissionLevel.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\bin\Debug\net8.0\permissionLevel.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\bin\Debug\net8.0\permissionLevel.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\refint\permissionLevel.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\permissionLevel.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\permissionLevel\obj\Debug\net8.0\ref\permissionLevel.dll

@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\bin\Debug\net8.0\MedicationTimes.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\bin\Debug\net8.0\MedicationTimes.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\bin\Debug\net8.0\MedicationTimes.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\bin\Debug\net8.0\MedicationTimes.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\bin\Debug\net8.0\MedicationTimes.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\refint\MedicationTimes.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\MedicationTimes.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\MedicationTimes\obj\Debug\net8.0\ref\MedicationTimes.dll

@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\bin\Debug\net8.0\doWhileRandom.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\bin\Debug\net8.0\doWhileRandom.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\bin\Debug\net8.0\doWhileRandom.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\bin\Debug\net8.0\doWhileRandom.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\bin\Debug\net8.0\doWhileRandom.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\refint\doWhileRandom.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\doWhileRandom.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\doWhileRandom\obj\Debug\net8.0\ref\doWhileRandom.dll

@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\bin\Debug\net8.0\switchInstruction.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\bin\Debug\net8.0\switchInstruction.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\bin\Debug\net8.0\switchInstruction.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\bin\Debug\net8.0\switchInstruction.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\bin\Debug\net8.0\switchInstruction.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\refint\switchInstruction.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\switchInstruction.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\switchInstruction\obj\Debug\net8.0\ref\switchInstruction.dll

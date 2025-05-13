@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\bin\Debug\net8.0\arraySort.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\bin\Debug\net8.0\arraySort.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\bin\Debug\net8.0\arraySort.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\bin\Debug\net8.0\arraySort.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\bin\Debug\net8.0\arraySort.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\refint\arraySort.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\arraySort.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\arraySort\obj\Debug\net8.0\ref\arraySort.dll

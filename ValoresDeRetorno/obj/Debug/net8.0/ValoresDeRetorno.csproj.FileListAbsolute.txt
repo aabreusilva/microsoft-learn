@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\bin\Debug\net8.0\ValoresDeRetorno.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\bin\Debug\net8.0\ValoresDeRetorno.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\bin\Debug\net8.0\ValoresDeRetorno.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\bin\Debug\net8.0\ValoresDeRetorno.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\bin\Debug\net8.0\ValoresDeRetorno.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\refint\ValoresDeRetorno.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ValoresDeRetorno.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\ValoresDeRetorno\obj\Debug\net8.0\ref\ValoresDeRetorno.dll
