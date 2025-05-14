@@ -1,0 +1,15 @@
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\bin\Debug\net8.0\parameter.exe
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\bin\Debug\net8.0\parameter.deps.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\bin\Debug\net8.0\parameter.runtimeconfig.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\bin\Debug\net8.0\parameter.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\bin\Debug\net8.0\parameter.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.AssemblyInfoInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.AssemblyInfo.cs
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.csproj.CoreCompileInputs.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.sourcelink.json
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\refint\parameter.dll
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.pdb
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\parameter.genruntimeconfig.cache
+C:\Users\alx19\Documents\Projetos\microsoft-learn\parameter\obj\Debug\net8.0\ref\parameter.dll
