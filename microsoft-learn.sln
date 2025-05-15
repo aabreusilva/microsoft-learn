@@ -3,6 +3,20 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "valoresDeNotas", "valoresDeNotas\valoresDeNotas.csproj", "{DF34C0E2-5A28-49A0-B8E5-7FECD4957DB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "somaNotas", "somaNotas\somaNotas.csproj", "{444C0373-9C17-49BB-AC9B-1EADA1E035E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formatarSaidaDecimal", "formatarSaidaDecimal\formatarSaidaDecimal.csproj", "{7FFA0294-1FC2-4180-9134-661CD0ECD518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "saidasDeEscape", "saidasDeEscape\saidasDeEscape.csproj", "{377AE7EC-6496-4054-BC80-AB15B51B9C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "someMedia", "someMedia\someMedia.csproj", "{CF5BA8BF-DBE4-4A0C-A144-2BFB4404478C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formatarSomaMedia", "formatarSomaMedia\formatarSomaMedia.csproj", "{44FF2EF6-0CC3-4053-B33B-7DC6ED5928CE}"
+EndProject
+
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
